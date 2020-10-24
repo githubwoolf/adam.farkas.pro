@@ -1,0 +1,330 @@
+
+/* BODY
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+
+
+.cite,
+.effort,
+.love,
+.leisure {
+	background-color: #eee;
+}
+
+.footer {
+	background-color: #aaa;
+}
+
+p {
+	font-size: 1.2em;
+}
+
+a, a:visited, a:active {
+	color: #000;
+    text-decoration: none;
+}
+
+a {
+	color: #000;
+    box-shadow: inset 0 -7px 0 #f7b58e;
+}
+
+a:hover{
+	color: #000;
+    box-shadow: inset 0 -11px 0 #ea5b25;
+}
+
+a.no-deco{
+	box-shadow: none;
+}
+a.no-deco:hover{
+	box-shadow: inset 0 -3px 0 #ea5b25;
+}
+
+
+/* Header Navigation
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+.header-navi{
+	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 1.2em;
+	font-size: 2.5em;
+	font-style: italic;
+	font-weight: 300;
+	color: #333;
+}
+
+/* Intro
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+h1.intro {
+	font-size: 2em;
+	font-weight: 400;
+}
+
+strong.intro {
+	color: #ea5b25;
+	font-weight: 700;
+}
+
+i.full-stack{
+	font-style: italic;
+	font-weight: 300;
+}
+
+.logo {
+	max-width: 60%;
+	margin-top: 50%;
+	margin-bottom: 5%;
+}
+
+p.intro{
+	margin-top: 15%;
+	margin-bottom: 15%;
+}
+
+
+
+/* Citations
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+.citation {
+	text-align: center;
+	padding-top: 3em;
+	padding-bottom: 1.5em;
+}
+.citation-text {
+	font-size: 1.2em;
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 300;
+	margin-bottom: .8em;
+}
+h3.citation-text > strong{
+	font-style: italic;
+	font-weight: 300;
+	position: absolute;
+	margin-top: -.3em;
+	margin-left: -.4em;
+	font-size: 2.2em;
+	color: #ea5b25;
+	font-family: 'Open Sans';
+}
+.citation-by {
+	font-size: 0.9em;
+	text-align: right;
+	padding-right: 1.5em;
+	font-style: italic;
+	font-weight: 300;
+}
+
+
+/* Work
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+
+.works{
+
+	padding-bottom: 4em;
+}
+
+.work-year > strong{
+	color: #ea5b25;
+	font-size: 2em;
+	font-weight: 700;
+}
+
+.work-starting{
+	font-style: italic;
+	font-weight: 300;
+}
+
+.work-job-title{
+	margin-top: 0em;
+	margin-bottom: 0.5em;
+}
+
+.work-company{
+	margin-top: 0em;
+	margin-bottom: 0em;
+	font-size: 1.2em;
+	font-style: italic;
+	font-weight: 300;
+}
+
+.work-experience{
+	margin-top: 1em;
+	font-style: normal;
+}
+
+.years{
+	margin-top: 0em;
+	margin-bottom: -0.5em;
+}
+
+/* Values
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+.value {
+	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.values {
+  	background-size: cover;
+}
+.value-description {
+	font-size: 1.2em;
+  	font-weight: 300;
+  	font-style: italic;
+  	margin-top: 0rem;
+  	margin-bottom: 0rem;
+}
+.value-multiplier {
+	font-size: 3em;
+	font-weight: 700;
+  	margin-bottom: 0rem;
+  	color: #ea5b25;
+  	margin-top: 0rem;
+  	margin-bottom: 0rem;
+}
+
+
+/* Skills
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+.skills{
+	padding-bottom: 3em;
+}
+
+.skill-percent{
+	color: #ea5b25;
+}
+
+.skill-text{
+	font-weight: 400;
+}
+
+
+/* Leisure
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+.leisure{
+	text-align: center;
+	padding-top: 1em;
+	font-style: italic;
+	font-weight: 300;
+}
+
+
+/* Contact
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+
+.contact{
+	text-align: center;
+	padding-bottom: 4em;
+}
+
+.contact-icons{
+	font-size: 3.5em;
+}
+.contact-or{
+	font-size: 1.2em;
+}
+.contact-mail{
+	margin-top: 2em;
+	margin-bottom: 3em;
+	font-size: 1.2em;
+}
+
+
+/* Love
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+.loves{
+	text-align: center;
+	padding-top: 3em;
+}
+
+.love-made-with{
+	padding-top: 1em;
+	font-size: 0.9em;
+	font-style: italic;
+	font-weight: 300;
+}
+
+.love-farkas{
+	font-size: 0.8em;
+}
+
+.love-logo{
+	max-width: 75px;
+	padding-bottom: 2em;
+}
+
+.love-awesome-mobile{
+	display: block;
+}
+
+.love-awesome-desktop{
+	display: none;
+}
+
+.intro-mobile{
+	display: block;
+	margin-top: 10%;
+	margin-bottom: 20%;
+}
+
+.intro-desktop{
+	display: none;
+}
+
+/* Bigger than 750 */
+@media (min-width: 750px) {
+  	
+  	.logo {
+    max-width: 35%;
+	margin-top: 15%;    
+	margin-bottom: 5%;
+	}
+
+	h1.intro{
+		font-size: 2.5em;
+	}
+
+	p.intro{
+	margin-top: 5%;
+	margin-bottom: 15%;
+	}
+
+	.work-job-title{
+	margin-top: 0.2em;
+	margin-bottom: 0.5em;
+	}
+	.work-company{
+	margin-top: -0.8em;
+	margin-bottom: 0em;
+	font-size: 1.2em;
+	font-style: italic;
+	}
+
+	.skills-desktop{
+		margin-top: 3em;
+	}
+}
+
+/* Bigger than 750 */
+@media (min-width: 750px) {
+
+	.love-awesome-mobile{
+		display: none;
+	}
+
+	.love-awesome-desktop{
+		display: block;
+	}
+
+	.intro-mobile{
+		display: none;
+	}
+
+	.intro-desktop{
+		display: block;
+		margin-top: 5%;
+		margin-bottom: 10%;
+	}
+}
