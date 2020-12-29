@@ -97,7 +97,7 @@ p.intro{
 	font-weight: 300;
 	margin-bottom: .8em;
 }
-h3.citation-text > strong{
+h2.citation-text > strong{
 	font-style: italic;
 	font-weight: 300;
 	position: absolute;
