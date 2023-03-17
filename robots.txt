@@ -11,4 +11,4 @@ Disallow: /blog/ # I still need some time for that.
 # But feel free to check this regularly.
 # ________________________________
 #
-Sitemap: http://adam.farkas.pro/sitemap.xml
+Sitemap: https://adam.farkas.pro/sitemap.xml
