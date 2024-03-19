@@ -1,18 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/blog/posts/my-first-post/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://adam.farkas.pro/</loc>
+  <lastmod>2024-03-17T13:37:23+00:00</lastmod>
+</url>
 </urlset>
