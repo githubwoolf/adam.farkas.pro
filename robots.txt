@@ -5,10 +5,11 @@
 # ________________________________
 #
 User-agent: *
-Disallow: /blog/ # I still need some time for that.
+Allow: /blog/ # Finally done!
 
 
 # But feel free to check this regularly.
 # ________________________________
 #
 Sitemap: https://adam.farkas.pro/sitemap.xml
+Sitemap: https://adam.farkas.pro/blog/sitemap.xml
