@@ -1,0 +1,38 @@
+/* Header styling */
+.header {
+  background-color: #ffffff;
+  padding: 1rem 0;
+  z-index: 1000;
+}
+
+/* Logo styles */
+.logo {
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none !important;
+  color: #333;
+}
+
+/* Navigation styles */
+.nav {
+  text-align: right;
+}
+
+.nav-link {
+  margin-left: 1.5rem;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #000;
+}
+
+
+/* Specific styles for homepage navigation */
+header.header .nav-link {
+  font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+}
+

@@ -124,7 +124,7 @@ body {
   font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.7;
   font-weight: 400;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
   color: #222; }
 
 /* Typography
