@@ -2,29 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Adam´s Thoughts</title>
-    <link>http://localhost:1313/blog/posts/</link>
+    <link>https://adam.farkas.pro/blog/posts/</link>
     <description>Recent content in Posts on Adam´s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>On starting this blog</title>
-      <link>http://localhost:1313/blog/posts/on-starting-this-blog/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/blog/posts/on-starting-this-blog/</guid>
-      <description>&lt;p&gt;Why does somebody start a personal blog? While there are many reasons the more people you ask you will see overlapping patterns. But since this is my first post I think I have to elaborate anyway. At least for the future me to remind him of the specific reasons – and ideally motivating him to keep posting… ;)&lt;/p&gt;
-&lt;h2 id=&#34;produce&#34;&gt;Produce&lt;/h2&gt;
-&lt;p&gt;The last couple of years I was in a state of mainly consuming. This had several reasons, mainly work exhausted me so much that I could not think of doing anything related to a side project. Also I thought that I &lt;em&gt;needed&lt;/em&gt; my hobbies to recharge my batteries to cope with life effectively. This was true for a period of time, but it is no longer the case. Everytime I consumed something (videos, blogs, news but also games, series and movies) I had the strange feeling: Is this &lt;em&gt;really&lt;/em&gt; recharging my batteries?&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 26 Nov 2024 18:33:00 +0100</lastBuildDate>
+    <atom:link href="https://adam.farkas.pro/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Live</title>
-      <link>http://localhost:1313/blog/posts/template-copy/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/blog/posts/template-copy/</guid>
-      <description>&lt;p&gt;After some initial struggle, I decided to bring this blog to live.&lt;/p&gt;
-&lt;h2 id=&#34;para-1&#34;&gt;Para 1&lt;/h2&gt;
-&lt;p&gt;here comes the text&lt;/p&gt;</description>
+      <link>https://adam.farkas.pro/blog/posts/template-copy/</link>
+      <pubDate>Tue, 26 Nov 2024 18:33:00 +0100</pubDate>
+      <guid>https://adam.farkas.pro/blog/posts/template-copy/</guid>
+      <description>&lt;p&gt;After some initial struggles, I decided to bring this blog to life.&lt;/p&gt;
+&lt;h2 id=&#34;what-to-expect&#34;&gt;What to Expect?&lt;/h2&gt;
+&lt;p&gt;There will be an initial blog post on why I started this blog—I already wrote it! I will also write a separate one on why it took so long, but for today, I’ll call it a day. I am glad, happy, and also relieved that it finally went live. See you soon, and don’t forget to check back in a few days!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
