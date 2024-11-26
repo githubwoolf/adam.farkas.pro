@@ -16,7 +16,7 @@
   <meta property="og:site_name" content="Adam Farkas" />
   <meta property="og:title" content="Adam Farkas &#124; Digital Project Managing Nerd" />
   <meta property="og:description" content="Curious? Find out more about me at my personal website." />
-  <meta property="og:image" content="https://adam.farkas.pro/images/farkas-logo.png" />
+  <meta property="og:image" content="./images/farkas-logo.png" />
   <meta property="og:image:type" content="image/png" />
   <meta property="og:image:width" content="411" />
   <meta property="og:image:height" content="355" />
@@ -29,13 +29,15 @@
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– --> 
-  <link rel="stylesheet" href="https://adam.farkas.pro/css/normalize.css">
-  <link rel="stylesheet" href="https://adam.farkas.pro/css/skeleton.css">
-  <link rel="stylesheet" href="https://adam.farkas.pro/css/sweet.css">
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/skeleton.css">
+  <link rel="stylesheet" href="./css/sweet.css">
+  <link rel="stylesheet" href="./css/navi.css">
+
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="https://adam.farkas.pro/images/favicon.png">
+  <link rel="icon" type="image/png" href="./images/favicon.png">
   
   <script type="application/ld+json">
 {
@@ -59,6 +61,22 @@
 
 </head>
 <body>
+
+  <header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="six columns logo-column">
+                <a href="/" class="logo">Adam Farkas</a>
+            </div>
+            <div class="six columns nav-column">
+                <nav class="nav">
+                    <a href="/" class="nav-link"><strong style="font-weight: 500;">About</strong></a>
+                    <a href="./blog/" class="nav-link">Blog</a>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
