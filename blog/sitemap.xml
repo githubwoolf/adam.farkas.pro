@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://adam.farkas.pro/blog/</loc>
-    <lastmod>2024-12-03T18:33:00+01:00</lastmod>
+    <lastmod>2025-02-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://adam.farkas.pro/blog/posts/</loc>
-    <lastmod>2024-12-03T18:33:00+01:00</lastmod>
+    <lastmod>2025-02-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://adam.farkas.pro/blog/posts/search/</loc>
+    <lastmod>2025-02-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://adam.farkas.pro/blog/posts/start/</loc>
     <lastmod>2024-12-03T18:33:00+01:00</lastmod>
